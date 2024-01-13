@@ -17,6 +17,8 @@ Final Project of Programming for Data Science
 | 21120574   | Nguyễn Minh Trí        | Progamming for Data Science - 21_21    |
 | 21120580   | Trần Thị Kim Trinh     | Progamming for Data Science - 21_21    |
 
+Work Allocation Table: https://studenthcmusedu-my.sharepoint.com/:x:/g/personal/21120580_student_hcmus_edu_vn/Edfx0yMA9Q5Jt7hQ1c38Z94B5heo1mjGVdOraz77s7aVKQ?e=MdSOdg&nav=MTVfezhDN0NDODhBLUU2M0ItNDg5MS1CNzA3LUYwRTAwMzZDNjRCRn0
+
 ## Introduction
 
 - This is the Final Project of **Programming for Data Science - 21_21** (2023).
