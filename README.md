@@ -66,4 +66,3 @@ Final Project of Programming for Data Science
 ## References
 Online:
 1. Link: [Accidental Drug - Analysis + Visualization](https://www.kaggle.com/code/fabriciositto/accidental-drug-analysis-visualization?fbclid=IwAR3r4unuG5Hp7arsvd6tUlaj5TW-3EXl8objVaR4XotuKsPMUbTcV0Afuy8)
-2. Link: [Github_P4DS-FinalProject_huyban2003](https://github.com/huyban2003/P4DS-FinalProject/blob/main/Notebook.ipynb?fbclid=IwAR1roSyqhOHEDbvlT8M7RGPZGtzJ4jFOeecj8q_4l8tCvSnLnos9deKotC0)
